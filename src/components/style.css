@@ -124,10 +124,7 @@ h2{
 }
 
 
-#btn1{
-  position: relative;
-  top: -500px;
-}
+
 select{
   position: relative;
   top: -150px;
@@ -190,5 +187,21 @@ th,tr{
   top: -400px;
   width: 300px;
   height: 60px;  
+}
+#inpt1{
+  position: relative;
+  top: -400px;
+}
+#inpt2{
+  position: relative;
+  top: -400px;
+}
+#inpt3{
+  position: relative;
+  top: -400px;
+}
+#btn1{
+  position: relative;
+  top: -400px;
 }
 }
