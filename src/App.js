@@ -8,7 +8,7 @@ import DelFlight from './components/DelFlight'
 import 'bootstrap/dist/css/bootstrap.min.css' 
 import ControlPanel from './components/ControlPanel'
 import SortFlight from './components/SortFlight'
-import {BrowserRouter,Routes,Route} from 'react-router-dom'
+import {HashRouter,Routes,Route} from 'react-router-dom'
 import { useEffect } from 'react';
 
 
@@ -168,7 +168,7 @@ const lockFlight = ()=>{
   return (
     <div className="App">
       
-<BrowserRouter> 
+<HashRouter> 
 <h1>Flight Control</h1>
 {menu()}    
 <Routes>
@@ -190,7 +190,7 @@ const lockFlight = ()=>{
   })}
 
 </Routes>
-</BrowserRouter>
+</HashRouter>
 
 
 
