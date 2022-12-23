@@ -1,0 +1,194 @@
+
+#btn{
+    width: 200px;
+    height: 80px;
+    margin: 5px;
+    position: relative;
+    left: 650px;
+}
+#inpt1{
+    width: 300px;
+    height: 60px;
+    margin: 5px;
+    position: relative;
+    top: -300px;
+}
+#inpt2{
+  width: 300px;
+  height: 60px;
+  margin: 5px;
+  position: relative;
+  top: -300px;
+}
+#inpt3{
+  width: 300px;
+  height: 60px;
+  margin: 5px;
+  position: relative;
+  top: -300px;
+}
+
+#btn1{
+    width: 300px;
+    height: 60px;
+    margin: 5px;
+    position: relative;
+    top: -300px;  
+     
+}
+td ,tr , th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+    width: 300px;
+    height: 80px;
+  
+  }
+  body{
+    background-image: url("b.jpg");
+   background-size:1500px 1300px ;
+  }
+
+  #inptLogin{
+    width: 300px;
+    height: 60px;
+    position: relative;
+    top: 80px;
+  }
+
+  #btnLogin{
+    width: 300px;
+    height: 60px; 
+    position: relative;
+    top: 100px;
+  }
+
+#btnDel{
+    width: 300px;
+    height: 60px;
+    position: relative;
+    top: -280px;
+    
+}
+#inptDel{
+    position: relative;
+    top: -300px;
+    width: 300px;
+    height: 60px;  
+}
+#tr , .th{
+  position: relative;
+  top: 10px;
+  right: 300px;
+  
+  
+ 
+ }
+ .td{
+   position: relative;
+   right: 300px;
+   top: 20px;
+ }
+
+h2{
+    position: relative;
+    top: -360px;
+}
+#h2{
+  position: relative;
+  top: -390px;
+}
+
+@media (max-width:768px){
+  #btn{
+    width: 100px;
+    height: 70px;
+    position: relative;
+   left: 450px;
+    top: -20px;
+    
+   
+}
+#div{
+  width: 768px;
+  height: 500px;
+}
+h2{
+  position: relative;
+  top: -500px;
+  
+}
+#inpt{
+  position: relative;
+  top: -500px;
+}
+
+
+#btn1{
+  position: relative;
+  top: -500px;
+}
+select{
+  position: relative;
+  top: -150px;
+}
+td  {
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-size: 30px;
+  width: 200px;
+  height: 80px;
+  position: relative;
+  top: -850px;
+ right: 250px;
+
+}
+th,tr{
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-size: 30px;
+  width: 200px;
+  height: 80px;
+  position: relative;
+ top: -50px;
+  right: 120px;
+}
+#h2{
+  position: relative;
+  top: -500px;
+}
+#tr , .th{
+ position: relative;
+ top: -50px;
+ right: 500px;
+ 
+ 
+
+}
+.td{
+  position: relative;
+  right: 500px;
+  top: -50px;
+}
+.td2{
+  position: relative;
+  top: -400px;
+}
+#input{
+  position: relative;
+  top: -420px;
+}
+#btnDel{
+  width: 300px;
+  height: 60px;
+  position: relative;
+  top: -380px;
+  
+}
+#inptDel{
+  position: relative;
+  top: -400px;
+  width: 300px;
+  height: 60px;  
+}
+}
