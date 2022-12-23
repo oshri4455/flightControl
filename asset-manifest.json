@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flightControl/static/css/main.5d1ef869.css",
+    "main.js": "/flightControl/static/js/main.6ade8e5b.js",
+    "static/js/787.62b98448.chunk.js": "/flightControl/static/js/787.62b98448.chunk.js",
+    "static/media/b.jpg": "/flightControl/static/media/b.cbcd39ba5ca853ab5c3d.jpg",
+    "static/media/logo.svg": "/flightControl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/flightControl/index.html",
+    "main.5d1ef869.css.map": "/flightControl/static/css/main.5d1ef869.css.map",
+    "main.6ade8e5b.js.map": "/flightControl/static/js/main.6ade8e5b.js.map",
+    "787.62b98448.chunk.js.map": "/flightControl/static/js/787.62b98448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1ef869.css",
+    "static/js/main.6ade8e5b.js"
+  ]
+}
